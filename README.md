@@ -1,0 +1,2 @@
+# Mobile-shop-application
+The project titled Mobile shopping system is application for shopping mobiles. The project “Mobile shopping system” is developed in python, which mainly focuses on operations like displaying all features of mobile which user selects.  If user wants to buy it system will ask user for details and also system will mail this information along with order number to user. And this information about user also will store in database which will help to seller to keep records. 
